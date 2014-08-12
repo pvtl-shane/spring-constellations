@@ -1,0 +1,8 @@
+---
+  applications:
+   - name: constellations
+     host: constellations
+     domain: segundo.cfd.cf-app.com
+     instances: 1
+     memory: 512M
+     path: build/libs/constellations-0.1.0.jar
